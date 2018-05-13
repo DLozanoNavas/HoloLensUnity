@@ -569,11 +569,11 @@ PlayerSettings:
   m_MobileRenderingPath: 1
   metroPackageName: HoloLensUnity
   metroPackageVersion: 1.0.0.0
-  metroCertificatePath: 
+  metroCertificatePath: Assets\WSATestCertificate.pfx
   metroCertificatePassword: 
-  metroCertificateSubject: 
-  metroCertificateIssuer: 
-  metroCertificateNotAfter: 0000000000000000
+  metroCertificateSubject: DLozanoNavas
+  metroCertificateIssuer: DLozanoNavas
+  metroCertificateNotAfter: 80b166ffd209d501
   metroApplicationDescription: HoloLensUnity
   wsaImages: {}
   metroTileShortName: 
